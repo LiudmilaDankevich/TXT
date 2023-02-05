@@ -1,0 +1,10 @@
+Структура баг репорта:
+1ID
+2.[A[D.ID[B[D[DTitele
+3,Pre-condishen
+4.Stap to reproduse[A[A[D[D[D[D[D[D[D[D[D[D[DDiscription[B[B[D[D[D[D[D[D[D[e[C[C[C[C[C[C[C[C[C[C[C[C[c[C
+5.Expected result
+6Acshial[D[D[3~[3~[3~[C[C[Ctual result[D[D[D[D[D[D[D[D[D[D[D[D[D.[C[C[C[C[C[C[C[C[D[D[D[D[D[C[C[C [D[D[D[D[D[D[DActual[C[D      [D[D[D[D[Dresult
+7.Severety[D[i[C[C
+8.Priorrity[D[D[[3~[3~[3~[C[C[ity
+9.Attachmentw

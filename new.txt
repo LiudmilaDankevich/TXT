@@ -1,0 +1,3 @@
+Name: Milla
+Age: 35
+Number of pets: 1
